@@ -3,78 +3,78 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>/en/authors/</loc>
+    <loc>https://Shipper403.github.io/ecs-smh/en/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="/authors/"
+      href="https://Shipper403.github.io/ecs-smh/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="/en/authors/"
+      href="https://Shipper403.github.io/ecs-smh/en/authors/"
     />
   </url>
   <url>
-    <loc>/en/categories/</loc>
+    <loc>https://Shipper403.github.io/ecs-smh/en/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="/categories/"
+      href="https://Shipper403.github.io/ecs-smh/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="/en/categories/"
+      href="https://Shipper403.github.io/ecs-smh/en/categories/"
     />
   </url>
   <url>
-    <loc>/en/</loc>
+    <loc>https://Shipper403.github.io/ecs-smh/en/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="/"
+      href="https://Shipper403.github.io/ecs-smh/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="/en/"
+      href="https://Shipper403.github.io/ecs-smh/en/"
     />
   </url>
   <url>
-    <loc>/en/series/</loc>
+    <loc>https://Shipper403.github.io/ecs-smh/en/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="/series/"
+      href="https://Shipper403.github.io/ecs-smh/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="/en/series/"
+      href="https://Shipper403.github.io/ecs-smh/en/series/"
     />
   </url>
   <url>
-    <loc>/en/tags/</loc>
+    <loc>https://Shipper403.github.io/ecs-smh/en/tags/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="fr"
-      href="/tags/"
+      href="https://Shipper403.github.io/ecs-smh/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="/en/tags/"
+      href="https://Shipper403.github.io/ecs-smh/en/tags/"
     />
   </url>
 </urlset>
