@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conduite on ECS</title>
+    <link>/tags/conduite/</link>
+    <description>Recent content in Conduite on ECS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>© 2025 ECS</copyright>
+    <lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/conduite/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Règlement Intérieur</title>
+      <link>/reglement/</link>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/reglement/</guid>
+      <description>Consultez les règles de savoir-vivre et de conduite qui garantissent un environnement d&amp;rsquo;apprentissage harmonieux et respectueux pour tous les membres de l&amp;rsquo;association.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

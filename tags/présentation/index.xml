@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Présentation on ECS</title>
+    <link>/tags/pr%C3%A9sentation/</link>
+    <description>Recent content in Présentation on ECS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>© 2025 ECS</copyright>
+    <lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/pr%C3%A9sentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Présentation de l&#39;Espace Culture et Savoir</title>
+      <link>/presentation/</link>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/presentation/</guid>
+      <description>Découvrez les valeurs, la charte de conduite et la mission de notre association, un espace de vie commune où le respect mutuel et le bien-être de chacun sont essentiels.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

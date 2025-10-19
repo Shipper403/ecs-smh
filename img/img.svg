@@ -1,0 +1,87 @@
+<svg width="100%" height="100%" viewBox="0 0 800 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes rotate {
+        from { transform: rotate(0deg); }
+        to   { transform: rotate(360deg); }
+      }
+      .rotating-group {
+        transform-origin: center center; /* Rotates around the 50% 50% center */
+        animation: rotate 15s linear infinite; /* Slower, smoother rotation */
+      }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="800" height="800" fill="white" />
+
+  <g class="rotating-group">
+
+    <polygon
+      points="400,280 520,350 520,490 400,560 280,490 280,350"
+      fill="none"
+      stroke="#B8860B"
+      stroke-width="15" />
+
+    <g stroke="#B8860B" stroke-width="4" stroke-linecap="butt">
+      <script type="text/javascript">
+        <![CDATA[
+        const svg = document.querySelector('svg');
+        const rayGroup = svg.querySelector('.rotating-group > g');
+
+        const centerX = 400;
+        const centerY = 400;
+        const numRays = 108; // High density, divisible by 6 for hex alignment
+
+        // --- Layer 1 (Inner, Denser) ---
+        const innerRadius1 = 160; // Starts just outside the hexagon's thickest corners
+        const midRadius1   = 195;
+        const outerRadius1 = 230;
+
+        // --- Layer 2 (Outer, Longer) ---
+        const innerRadius2 = 250;
+        const midRadius2   = 315;
+        const outerRadius2 = 380;
+
+        for (let i = 0; i < numRays; i++) {
+          const angle = (i * (360 / numRays));
+          const angleRad = angle * Math.PI / 180;
+
+          // Create line elements
+          const line1 = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+          const line2 = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+
+          // Alternating dashed effect for Layer 1 (short-long)
+          if (i % 2 === 0) {
+            line1.setAttribute('x1', `${centerX + innerRadius1 * Math.cos(angleRad)}`);
+            line1.setAttribute('y1', `${centerY + innerRadius1 * Math.sin(angleRad)}`);
+            line1.setAttribute('x2', `${centerX + midRadius1 * Math.cos(angleRad)}`);
+            line1.setAttribute('y2', `${centerY + midRadius1 * Math.sin(angleRad)}`);
+          } else {
+            line1.setAttribute('x1', `${centerX + midRadius1 * Math.cos(angleRad)}`);
+            line1.setAttribute('y1', `${centerY + midRadius1 * Math.sin(angleRad)}`);
+            line1.setAttribute('x2', `${centerX + outerRadius1 * Math.cos(angleRad)}`);
+            line1.setAttribute('y2', `${centerY + outerRadius1 * Math.sin(angleRad)}`);
+          }
+
+          // Alternating dashed effect for Layer 2 (long-short, opposite of layer 1)
+          if (i % 2 === 0) {
+            line2.setAttribute('x1', `${centerX + midRadius2 * Math.cos(angleRad)}`);
+            line2.setAttribute('y1', `${centerY + midRadius2 * Math.sin(angleRad)}`);
+            line2.setAttribute('x2', `${centerX + outerRadius2 * Math.cos(angleRad)}`);
+            line2.setAttribute('y2', `${centerY + outerRadius2 * Math.sin(angleRad)}`);
+          } else {
+            line2.setAttribute('x1', `${centerX + innerRadius2 * Math.cos(angleRad)}`);
+            line2.setAttribute('y1', `${centerY + innerRadius2 * Math.sin(angleRad)}`);
+            line2.setAttribute('x2', `${centerX + midRadius2 * Math.cos(angleRad)}`);
+            line2.setAttribute('y2', `${centerY + midRadius2 * Math.sin(angleRad)}`);
+          }
+
+          rayGroup.appendChild(line1);
+Read 3118 characters. remaining 4982.
+          rayGroup.appendChild(line2);
+        }
+        ]]>
+      </script>
+    </g>
+  </g>
+</svg>
