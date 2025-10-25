@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Association on ECS</title>
+    <link>https://Shipper403.github.io/ecs-smh/tags/association/</link>
+    <description>Recent content in Association on ECS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>© 2025 ECS</copyright>
+    <lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://Shipper403.github.io/ecs-smh/tags/association/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Association</title>
+      <link>https://Shipper403.github.io/ecs-smh/posts/association/</link>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://Shipper403.github.io/ecs-smh/posts/association/</guid>
+      <description>Découvrez l&amp;rsquo;association mère de l&amp;rsquo;ECS.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Shipper403.github.io/ecs-smh/posts/association/cover.jpg" />
+    </item>
+    
+  </channel>
+</rss>
