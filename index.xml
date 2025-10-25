@@ -10,16 +10,6 @@
     <lastBuildDate>Sat, 06 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://Shipper403.github.io/ecs-smh/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Association</title>
-      <link>https://Shipper403.github.io/ecs-smh/posts/association/</link>
-      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://Shipper403.github.io/ecs-smh/posts/association/</guid>
-      <description>Découvrez l&amp;rsquo;association mère de l&amp;rsquo;ECS.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Shipper403.github.io/ecs-smh/posts/association/cover.jpg" />
-    </item>
-    
-    <item>
       <title>Inscription et Adhésion</title>
       <link>https://Shipper403.github.io/ecs-smh/inscription/</link>
       <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
@@ -31,12 +21,12 @@
     
     <item>
       <title>Inscriptions aux Cours Adultes</title>
-      <link>https://Shipper403.github.io/ecs-smh/posts/post-lite-one/</link>
+      <link>https://Shipper403.github.io/ecs-smh/posts/post-lite-two/</link>
       <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://Shipper403.github.io/ecs-smh/posts/post-lite-one/</guid>
+      <guid>https://Shipper403.github.io/ecs-smh/posts/post-lite-two/</guid>
       <description>Découvrez les horaires et les niveaux pour nos cours de langue Arabe et d&amp;rsquo;apprentissage du Coran pour l&amp;rsquo;année 2025/2026, ainsi que les tarifs.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Shipper403.github.io/ecs-smh/posts/post-lite-one/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Shipper403.github.io/ecs-smh/posts/post-lite-two/cover.png" />
     </item>
     
     <item>
@@ -47,6 +37,16 @@
       <guid>https://Shipper403.github.io/ecs-smh/posts/post-lite-three/</guid>
       <description>Découvrez les horaires et les niveaux pour nos cours de soutien scolaire pour l&amp;rsquo;année 2025/2026, ainsi que les tarifs.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Shipper403.github.io/ecs-smh/posts/post-lite-three/cover.png" />
+    </item>
+    
+    <item>
+      <title>Inscriptions aux Cours Enfants</title>
+      <link>https://Shipper403.github.io/ecs-smh/posts/post-lite-one/</link>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://Shipper403.github.io/ecs-smh/posts/post-lite-one/</guid>
+      <description>Découvrez les horaires et les niveaux pour nos cours destinées aux enfants pour l&amp;rsquo;année 2025/2026, ainsi que les tarifs.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Shipper403.github.io/ecs-smh/posts/post-lite-one/cover.png" />
     </item>
     
     <item>
@@ -77,16 +77,6 @@
       <guid>https://Shipper403.github.io/ecs-smh/reglement/</guid>
       <description>Consultez les règles de savoir-vivre et de conduite qui garantissent un environnement d&amp;rsquo;apprentissage harmonieux et respectueux pour tous les membres de l&amp;rsquo;association.</description>
       
-    </item>
-    
-    <item>
-      <title>Super cool article that I wrote</title>
-      <link>https://Shipper403.github.io/ecs-smh/posts/post-lite-two/</link>
-      <pubDate>Sun, 04 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://Shipper403.github.io/ecs-smh/posts/post-lite-two/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in eleifend justo, vestibulum congue lacus. Quisque est libero, lacinia sed placerat ac, interdum id urna.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Shipper403.github.io/ecs-smh/posts/post-lite-two/cover.png" />
     </item>
     
   </channel>
