@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>© 2025 ECS</copyright>
-    <lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://Shipper403.github.io/ecs-smh/tags/inscription/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://Shipper403.github.io/ecs-smh/tags/inscription/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Inscriptions aux Cours Adultes</title>
+      <link>https://Shipper403.github.io/ecs-smh/posts/post-lite-two/</link>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://Shipper403.github.io/ecs-smh/posts/post-lite-two/</guid>
+      <description>Découvrez les horaires et les niveaux pour nos cours de langue (Arabe et Anglais) et d&amp;rsquo;apprentissage du Coran.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Shipper403.github.io/ecs-smh/posts/post-lite-two/cover.png" />
+    </item>
+    
+    <item>
+      <title>Inscriptions aux Cours de Soutien Scolaire</title>
+      <link>https://Shipper403.github.io/ecs-smh/posts/post-lite-three/</link>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://Shipper403.github.io/ecs-smh/posts/post-lite-three/</guid>
+      <description>Découvrez les horaires et les niveaux pour nos cours de soutien scolaire.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Shipper403.github.io/ecs-smh/posts/post-lite-three/cover.png" />
+    </item>
+    
+    <item>
+      <title>Inscriptions aux Cours Enfants</title>
+      <link>https://Shipper403.github.io/ecs-smh/posts/post-lite-one/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://Shipper403.github.io/ecs-smh/posts/post-lite-one/</guid>
+      <description>Découvrez les horaires et les niveaux pour nos cours destinées aux enfants.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Shipper403.github.io/ecs-smh/posts/post-lite-one/cover.png" />
+    </item>
     
     <item>
       <title>Inscription et Adhésion</title>
@@ -17,36 +47,6 @@
       <guid>https://Shipper403.github.io/ecs-smh/inscription/</guid>
       <description>Retrouvez toutes les informations concernant les modalités d&amp;rsquo;adhésion, de cotisation, d&amp;rsquo;inscription et l&amp;rsquo;engagement attendu de la part des parents et des enfants.</description>
       
-    </item>
-    
-    <item>
-      <title>Inscriptions aux Cours Adultes</title>
-      <link>https://Shipper403.github.io/ecs-smh/posts/post-lite-two/</link>
-      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://Shipper403.github.io/ecs-smh/posts/post-lite-two/</guid>
-      <description>Découvrez les horaires et les niveaux pour nos cours de langue Arabe et d&amp;rsquo;apprentissage du Coran ainsi que les tarifs.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Shipper403.github.io/ecs-smh/posts/post-lite-two/cover.png" />
-    </item>
-    
-    <item>
-      <title>Inscriptions aux Cours de Soutien Scolaire</title>
-      <link>https://Shipper403.github.io/ecs-smh/posts/post-lite-three/</link>
-      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://Shipper403.github.io/ecs-smh/posts/post-lite-three/</guid>
-      <description>Découvrez les horaires et les niveaux pour nos cours de soutien scolaire ainsi que les tarifs.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Shipper403.github.io/ecs-smh/posts/post-lite-three/cover.png" />
-    </item>
-    
-    <item>
-      <title>Inscriptions aux Cours Enfants</title>
-      <link>https://Shipper403.github.io/ecs-smh/posts/post-lite-one/</link>
-      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://Shipper403.github.io/ecs-smh/posts/post-lite-one/</guid>
-      <description>Découvrez les horaires et les niveaux pour nos cours destinées aux enfants ainsi que les tarifs.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Shipper403.github.io/ecs-smh/posts/post-lite-one/cover.png" />
     </item>
     
   </channel>

@@ -3,6 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://Shipper403.github.io/ecs-smh/tags/adulte/</loc>
+    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Shipper403.github.io/ecs-smh/tags/inscription/</loc>
+    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Shipper403.github.io/ecs-smh/posts/post-lite-two/</loc>
+    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Shipper403.github.io/ecs-smh/posts/post-lite-three/</loc>
+    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Shipper403.github.io/ecs-smh/tags/post/</loc>
+    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Shipper403.github.io/ecs-smh/posts/</loc>
+    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Shipper403.github.io/ecs-smh/tags/scolaire/</loc>
+    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Shipper403.github.io/ecs-smh/tags/soutien/</loc>
+    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Shipper403.github.io/ecs-smh/tags/</loc>
+    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://Shipper403.github.io/ecs-smh/en/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://Shipper403.github.io/ecs-smh/tags/"
+    />
+  </url>
+  <url>
+    <loc>https://Shipper403.github.io/ecs-smh/tags/enfants/</loc>
+    <lastmod>2025-10-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Shipper403.github.io/ecs-smh/posts/post-lite-one/</loc>
+    <lastmod>2025-10-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://Shipper403.github.io/ecs-smh/tags/activit%C3%A9s/</loc>
     <lastmod>2025-10-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -10,12 +86,6 @@
   </url>
   <url>
     <loc>https://Shipper403.github.io/ecs-smh/tags/adh%C3%A9sion/</loc>
-    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://Shipper403.github.io/ecs-smh/tags/adulte/</loc>
     <lastmod>2025-10-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -39,55 +109,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://Shipper403.github.io/ecs-smh/tags/enfants/</loc>
-    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://Shipper403.github.io/ecs-smh/tags/inscription/</loc>
-    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://Shipper403.github.io/ecs-smh/inscription/</loc>
     <lastmod>2025-10-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://Shipper403.github.io/ecs-smh/posts/post-lite-two/</loc>
-    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://Shipper403.github.io/ecs-smh/posts/post-lite-three/</loc>
-    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://Shipper403.github.io/ecs-smh/posts/post-lite-one/</loc>
-    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://Shipper403.github.io/ecs-smh/activites/</loc>
-    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://Shipper403.github.io/ecs-smh/tags/post/</loc>
-    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://Shipper403.github.io/ecs-smh/posts/</loc>
     <lastmod>2025-10-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -117,38 +145,10 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://Shipper403.github.io/ecs-smh/tags/scolaire/</loc>
-    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://Shipper403.github.io/ecs-smh/tags/soutien/</loc>
-    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://Shipper403.github.io/ecs-smh/tags/structure/</loc>
     <lastmod>2025-10-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://Shipper403.github.io/ecs-smh/tags/</loc>
-    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://Shipper403.github.io/ecs-smh/en/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="https://Shipper403.github.io/ecs-smh/tags/"
-    />
   </url>
   <url>
     <loc>https://Shipper403.github.io/ecs-smh/authors/</loc>
