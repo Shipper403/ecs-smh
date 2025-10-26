@@ -10,23 +10,13 @@
     <lastBuildDate>Tue, 21 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://Shipper403.github.io/ecs-smh/tags/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Inscriptions aux Cours Adultes</title>
-      <link>https://Shipper403.github.io/ecs-smh/posts/post-lite-two/</link>
+      <title>Association</title>
+      <link>https://Shipper403.github.io/ecs-smh/posts/association/</link>
       <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://Shipper403.github.io/ecs-smh/posts/post-lite-two/</guid>
-      <description>Découvrez les horaires et les niveaux pour nos cours de langue (Arabe et Anglais) et d&amp;rsquo;apprentissage du Coran.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Shipper403.github.io/ecs-smh/posts/post-lite-two/cover.png" />
-    </item>
-    
-    <item>
-      <title>Inscriptions aux Cours de Soutien Scolaire</title>
-      <link>https://Shipper403.github.io/ecs-smh/posts/post-lite-three/</link>
-      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://Shipper403.github.io/ecs-smh/posts/post-lite-three/</guid>
-      <description>Découvrez les horaires et les niveaux pour nos cours de soutien scolaire.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Shipper403.github.io/ecs-smh/posts/post-lite-three/cover.png" />
+      <guid>https://Shipper403.github.io/ecs-smh/posts/association/</guid>
+      <description>Découvrez ECS.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Shipper403.github.io/ecs-smh/posts/association/cover.jpg" />
     </item>
     
     <item>
@@ -40,13 +30,23 @@
     </item>
     
     <item>
-      <title>Association</title>
-      <link>https://Shipper403.github.io/ecs-smh/posts/association/</link>
+      <title>Inscriptions aux Cours Adultes</title>
+      <link>https://Shipper403.github.io/ecs-smh/posts/post-lite-two/</link>
       <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://Shipper403.github.io/ecs-smh/posts/association/</guid>
-      <description>Découvrez ECS.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Shipper403.github.io/ecs-smh/posts/association/cover.jpg" />
+      <guid>https://Shipper403.github.io/ecs-smh/posts/post-lite-two/</guid>
+      <description>Découvrez les horaires et les niveaux pour nos cours de langue (Arabe et Anglais) et d&amp;rsquo;apprentissage du Coran.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Shipper403.github.io/ecs-smh/posts/post-lite-two/cover.png" />
+    </item>
+    
+    <item>
+      <title>Inscriptions aux Cours de Soutien Scolaire</title>
+      <link>https://Shipper403.github.io/ecs-smh/posts/post-lite-three/</link>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://Shipper403.github.io/ecs-smh/posts/post-lite-three/</guid>
+      <description>Découvrez les horaires et les niveaux pour nos cours de soutien scolaire.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Shipper403.github.io/ecs-smh/posts/post-lite-three/cover.png" />
     </item>
     
   </channel>

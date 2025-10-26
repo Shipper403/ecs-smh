@@ -3,25 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://Shipper403.github.io/ecs-smh/tags/adulte/</loc>
+    <loc>https://Shipper403.github.io/ecs-smh/tags/association/</loc>
     <lastmod>2025-10-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://Shipper403.github.io/ecs-smh/tags/inscription/</loc>
-    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://Shipper403.github.io/ecs-smh/posts/post-lite-two/</loc>
-    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://Shipper403.github.io/ecs-smh/posts/post-lite-three/</loc>
+    <loc>https://Shipper403.github.io/ecs-smh/ecs-smh/presentation/</loc>
     <lastmod>2025-10-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -34,18 +22,6 @@
   </url>
   <url>
     <loc>https://Shipper403.github.io/ecs-smh/posts/</loc>
-    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://Shipper403.github.io/ecs-smh/tags/scolaire/</loc>
-    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://Shipper403.github.io/ecs-smh/tags/soutien/</loc>
     <lastmod>2025-10-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -73,6 +49,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://Shipper403.github.io/ecs-smh/tags/inscription/</loc>
+    <lastmod>2025-10-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://Shipper403.github.io/ecs-smh/posts/post-lite-one/</loc>
     <lastmod>2025-10-20T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -91,13 +73,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://Shipper403.github.io/ecs-smh/tags/association/</loc>
-    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://Shipper403.github.io/ecs-smh/ecs-smh/presentation/</loc>
+    <loc>https://Shipper403.github.io/ecs-smh/tags/adulte/</loc>
     <lastmod>2025-10-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -110,6 +86,12 @@
   </url>
   <url>
     <loc>https://Shipper403.github.io/ecs-smh/inscription/</loc>
+    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Shipper403.github.io/ecs-smh/posts/post-lite-two/</loc>
     <lastmod>2025-10-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -147,6 +129,24 @@
   <url>
     <loc>https://Shipper403.github.io/ecs-smh/tags/structure/</loc>
     <lastmod>2025-10-19T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Shipper403.github.io/ecs-smh/posts/post-lite-three/</loc>
+    <lastmod>2025-10-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Shipper403.github.io/ecs-smh/tags/scolaire/</loc>
+    <lastmod>2025-10-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://Shipper403.github.io/ecs-smh/tags/soutien/</loc>
+    <lastmod>2025-10-18T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

@@ -10,21 +10,11 @@
     <lastBuildDate>Tue, 21 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://Shipper403.github.io/ecs-smh/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Adulte</title>
-      <link>https://Shipper403.github.io/ecs-smh/tags/adulte/</link>
+      <title>Association</title>
+      <link>https://Shipper403.github.io/ecs-smh/tags/association/</link>
       <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://Shipper403.github.io/ecs-smh/tags/adulte/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Inscription</title>
-      <link>https://Shipper403.github.io/ecs-smh/tags/inscription/</link>
-      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://Shipper403.github.io/ecs-smh/tags/inscription/</guid>
+      <guid>https://Shipper403.github.io/ecs-smh/tags/association/</guid>
       <description></description>
       
     </item>
@@ -40,31 +30,21 @@
     </item>
     
     <item>
-      <title>Scolaire</title>
-      <link>https://Shipper403.github.io/ecs-smh/tags/scolaire/</link>
-      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://Shipper403.github.io/ecs-smh/tags/scolaire/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Soutien</title>
-      <link>https://Shipper403.github.io/ecs-smh/tags/soutien/</link>
-      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://Shipper403.github.io/ecs-smh/tags/soutien/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Enfants</title>
       <link>https://Shipper403.github.io/ecs-smh/tags/enfants/</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
       
       <guid>https://Shipper403.github.io/ecs-smh/tags/enfants/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Inscription</title>
+      <link>https://Shipper403.github.io/ecs-smh/tags/inscription/</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://Shipper403.github.io/ecs-smh/tags/inscription/</guid>
       <description></description>
       
     </item>
@@ -90,11 +70,11 @@
     </item>
     
     <item>
-      <title>Association</title>
-      <link>https://Shipper403.github.io/ecs-smh/tags/association/</link>
+      <title>Adulte</title>
+      <link>https://Shipper403.github.io/ecs-smh/tags/adulte/</link>
       <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://Shipper403.github.io/ecs-smh/tags/association/</guid>
+      <guid>https://Shipper403.github.io/ecs-smh/tags/adulte/</guid>
       <description></description>
       
     </item>
@@ -135,6 +115,26 @@
       <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
       
       <guid>https://Shipper403.github.io/ecs-smh/tags/structure/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Scolaire</title>
+      <link>https://Shipper403.github.io/ecs-smh/tags/scolaire/</link>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://Shipper403.github.io/ecs-smh/tags/scolaire/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Soutien</title>
+      <link>https://Shipper403.github.io/ecs-smh/tags/soutien/</link>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://Shipper403.github.io/ecs-smh/tags/soutien/</guid>
       <description></description>
       
     </item>

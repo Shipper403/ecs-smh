@@ -10,23 +10,13 @@
     <lastBuildDate>Sat, 06 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://Shipper403.github.io/ecs-smh/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Inscriptions aux Cours Adultes</title>
-      <link>https://Shipper403.github.io/ecs-smh/posts/post-lite-two/</link>
+      <title>Association</title>
+      <link>https://Shipper403.github.io/ecs-smh/posts/association/</link>
       <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://Shipper403.github.io/ecs-smh/posts/post-lite-two/</guid>
-      <description>Découvrez les horaires et les niveaux pour nos cours de langue (Arabe et Anglais) et d&amp;rsquo;apprentissage du Coran.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Shipper403.github.io/ecs-smh/posts/post-lite-two/cover.png" />
-    </item>
-    
-    <item>
-      <title>Inscriptions aux Cours de Soutien Scolaire</title>
-      <link>https://Shipper403.github.io/ecs-smh/posts/post-lite-three/</link>
-      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://Shipper403.github.io/ecs-smh/posts/post-lite-three/</guid>
-      <description>Découvrez les horaires et les niveaux pour nos cours de soutien scolaire.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Shipper403.github.io/ecs-smh/posts/post-lite-three/cover.png" />
+      <guid>https://Shipper403.github.io/ecs-smh/posts/association/</guid>
+      <description>Découvrez ECS.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Shipper403.github.io/ecs-smh/posts/association/cover.jpg" />
     </item>
     
     <item>
@@ -40,16 +30,6 @@
     </item>
     
     <item>
-      <title>Association</title>
-      <link>https://Shipper403.github.io/ecs-smh/posts/association/</link>
-      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://Shipper403.github.io/ecs-smh/posts/association/</guid>
-      <description>Découvrez ECS.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Shipper403.github.io/ecs-smh/posts/association/cover.jpg" />
-    </item>
-    
-    <item>
       <title>Inscription et Adhésion</title>
       <link>https://Shipper403.github.io/ecs-smh/inscription/</link>
       <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
@@ -57,6 +37,16 @@
       <guid>https://Shipper403.github.io/ecs-smh/inscription/</guid>
       <description>Retrouvez toutes les informations concernant les modalités d&amp;rsquo;adhésion, de cotisation, d&amp;rsquo;inscription et l&amp;rsquo;engagement attendu de la part des parents et des enfants.</description>
       
+    </item>
+    
+    <item>
+      <title>Inscriptions aux Cours Adultes</title>
+      <link>https://Shipper403.github.io/ecs-smh/posts/post-lite-two/</link>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://Shipper403.github.io/ecs-smh/posts/post-lite-two/</guid>
+      <description>Découvrez les horaires et les niveaux pour nos cours de langue (Arabe et Anglais) et d&amp;rsquo;apprentissage du Coran.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Shipper403.github.io/ecs-smh/posts/post-lite-two/cover.png" />
     </item>
     
     <item>
@@ -87,6 +77,16 @@
       <guid>https://Shipper403.github.io/ecs-smh/reglement/</guid>
       <description>Consultez les règles de savoir-vivre et de conduite qui garantissent un environnement d&amp;rsquo;apprentissage harmonieux et respectueux pour tous les membres de l&amp;rsquo;association.</description>
       
+    </item>
+    
+    <item>
+      <title>Inscriptions aux Cours de Soutien Scolaire</title>
+      <link>https://Shipper403.github.io/ecs-smh/posts/post-lite-three/</link>
+      <pubDate>Sat, 18 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://Shipper403.github.io/ecs-smh/posts/post-lite-three/</guid>
+      <description>Découvrez les horaires et les niveaux pour nos cours de soutien scolaire.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Shipper403.github.io/ecs-smh/posts/post-lite-three/cover.png" />
     </item>
     
   </channel>
