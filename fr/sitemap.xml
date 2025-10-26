@@ -15,6 +15,22 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://Shipper403.github.io/ecs-smh/</loc>
+    <lastmod>2025-10-21T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://Shipper403.github.io/ecs-smh/en/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="https://Shipper403.github.io/ecs-smh/"
+    />
+  </url>
+  <url>
     <loc>https://Shipper403.github.io/ecs-smh/tags/post/</loc>
     <lastmod>2025-10-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
